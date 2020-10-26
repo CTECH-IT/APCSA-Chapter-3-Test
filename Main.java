@@ -80,6 +80,8 @@ class Main {
     * Your assignment is to implement a trivia game
     * The user is given three questions
     * If they get at least two of them correct, they win!
+    * 
+    * You are free to change the questions and answers if you'd like
     */
 
 
