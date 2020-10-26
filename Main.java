@@ -58,9 +58,9 @@ class Main {
   static public void problem3() {
     /* 
     * Your task is to take an integer input from the user and
-    * if the number is divisible by three AND five, print "fizzbuzz"
     * if the number is divisible by three only, print "fizz"
     * if the number is divisible by five only, print "buzz"
+    * if the number is divisible by three AND five, print "fizzbuzz"
     * if the number is not divisible by three or five, don't print anything
     */
 
