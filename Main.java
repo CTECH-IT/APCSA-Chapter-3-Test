@@ -83,6 +83,8 @@ class Main {
     * If they get 2/3 or better, print out "you win!!!"
     * If they get 1/3 or worse, print out "you need to study more!!!"
     *
+    * You must use at least one logic symbol for AND or OR
+    *
     * You are free to change the questions and answers if you'd like    
     */
 
