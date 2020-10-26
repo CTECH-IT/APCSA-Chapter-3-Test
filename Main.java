@@ -20,7 +20,7 @@ class Main {
   static public void problem1() {
     /*
     * Your task is to create a die-rolling simulator
-    * Print out a random number from 1 - 6 inclusive
+    * Print out a random integer from 1 - 6 inclusive
     */
 
     // End of problem 1
@@ -40,7 +40,7 @@ class Main {
      * Then compare the guess to a roll of two dice 
      *    - if the guess is too high, print "too high!"
      *    - if the guess is too low, print "too low!"
-     *    - if the guess is too correct, print "you guessed it!"
+     *    - if the guess is correct, print "you guessed it!"
      *
      * (optional extra challenge) - use a "while" loop to allow the user to keep guessing until they get it
      */
@@ -80,8 +80,10 @@ class Main {
     * Your assignment is to implement a trivia game
     * The user is given three questions
     * If they get at least two of them correct, they win!
-    * 
-    * You are free to change the questions and answers if you'd like
+    * If they get 2/3 or better, print out "you win!!!"
+    * If they get 1/3 or worse, print out "you need to study more!!!"
+    *
+    * You are free to change the questions and answers if you'd like    
     */
 
 
